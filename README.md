@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FelypeSR
-- 👀 I’m interested in backend development and mobile applications.
-- 🌱 I’m currently learning C#, PHP and JavaScript
-- 💞️ I’m looking to collaborate on both for projects aimed at education and business projects.
-- 📫 How to reach: felipesrmacedo.45@gmail.com
+- 👋 Hi, my name is Felipe Santos
+- 👀 I am a bachelor's student in computer science.
+- 🌱 I am a Java, C# and JavaScript developer.
+- 📫 How to reach: felipesrmacedo.45@gmail.com.
+- In my spare time I like to save the world from aliens. 
 
 <!---
 FelypeSR/FelypeSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
