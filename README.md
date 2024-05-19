@@ -7,6 +7,7 @@
 
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeSR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeSR&hide_progress=true)
 
 ## My technologies
 <div  style = "display : inline_block"> </br>
