@@ -1,5 +1,5 @@
 
-### 👋 Hi, I am Felipe Santos. 
+### 👋 Hi, I am Felipe Macedo. 
 ### Computer Science undergraduate.
 ### you can find me on:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
