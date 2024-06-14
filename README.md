@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I am Felipe Macedo. 
 ### Computer Science undergraduate.
-### you can find me on:
+### you can find me on: https://felypesr.github.io/Mysite/#
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )]( felipesrmacedo.45@gmail.com) [![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sfelipe_45?igsh=MXQ1cGwzMGU3cm1zbg==) [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_feh?is_from_webapp=1&sender_device=pc)
 
